@@ -1,0 +1,41 @@
+{
+  "requests": [
+    {
+      "location": "location_test",
+      "database": "gfidb",
+      "internetMessageId": "internetMessageId",
+      "ownerEmailAddress": "testgfi1_QA@imanage-prod.zerodemo.website",
+      "ownerEwsItemId": "rtrh",
+      "itemClass": "IPM.Note.WorkSite.Ems.Filed",
+      "from": "testgfi1_QA@imanage-prod.zerodemo.website",
+      "to": [
+        "testgfi1_QA@imanage-prod.zerodemo.website"
+      ],
+      "cc": ["testgfi1_QA@imanage-prod.zerodemo.website"
+      ],
+      "bcc": [
+        "testgfi1_QA@imanage-prod.zerodemo.website"
+      ],
+      "documentInfo": {
+        "id": "db000!10000.4",
+        "documentNumber": 1200,
+        "name": "Mail subject",
+        "extension": "msg",
+        "class": "E-MAIL",
+        "size": 55555,
+        "type": "string",
+        "fileDate": "2021-08-30T07:42:51.959Z",
+        "author": "string",
+        "operator": "string",
+        "version": 0,
+        "folderId": "string",
+        "customs": [
+          {
+            "customId": 0,
+            "customValue": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
